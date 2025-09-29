@@ -1,0 +1,8 @@
+
+frutas = ["maçã", "banana", "uva", "laranja", "abacaxi", "morango"]
+
+
+frutas_tupla = tuple(frutas)
+
+
+print("🍉 Tupla de frutas:", frutas_tupla)
